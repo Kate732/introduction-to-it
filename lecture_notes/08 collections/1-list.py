@@ -11,4 +11,18 @@ ages.insert(0, 9)  # Add at the top of array
 print(ages)
 ages.pop(0)  # remove at the top of array
 print(ages)
+print(ages.index(17))
+
+
+def indexes_of_value(value, values):
+    indexes = []
+    for i in values:
+        if i == value:
+            indexes.append(values.index(value))
+        values.pop(values.index(value))
+    return indexes
+
+
+print(indexes_of_value(15, ages))
+print({'first': first, 'last': last})
 print({'first': first, 'last': last})
