@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+.idea*
+.json*
+.exe*
+.vscode/tasks.json
+.vscode/launch.json
+lecture_notes/08 collections/1-array.exe
+=======
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -10,4 +18,9 @@
 .vscode/launch.json
 .vscode/tasks.json
 .vscode/launch.json
+<<<<<<< HEAD
 lecture_notes/extras/test.py
+=======
+>>>>>>> f7cda2f3851901808c908a9dc7ba06e68d542b35
+>>>>>>> 38115db75b4ab0e81eb7b65053a280917800b39f
+.vscode/settings.json
